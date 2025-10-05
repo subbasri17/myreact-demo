@@ -6,3 +6,10 @@ npm run dev
 
 # Step 3: Build for production
 npm run build
+
+
+After building, Vite will generate:
+
+dist/
+ ├── index.html
+ ├── assets/
